@@ -15,6 +15,7 @@
 - [X] install vagrant with pacman.
 - [X] create my first vagrant image.
 - [X] install virtual box on arch linux.
+- [X] learn how to create multiple vms.
 - [ ] learn how to publish a box image on [HCP Vagrant Registry](https://portal.cloud.hashicorp.com/vagrant/discover).
 
 ## Boxes
